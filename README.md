@@ -1,9 +1,14 @@
+<div align="center">
+  
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!%20I'm%20CheolCheol!&fontAlignY=40&color=gradient)
+
+
+  
+### 🧑🏻‍💻 안녕하세요, 항상 발전하는 개발자 황철원입니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCheol-Cheol%2Fhit-counter&count_bg=%23000000&title_bg=%236F6FF3&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🧑🏻‍💻 안녕하세요, 항상 발전하는 개발자 황철원입니다.
-
+---
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
@@ -27,3 +32,7 @@
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+
