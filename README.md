@@ -26,7 +26,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheol-Cheol&layout=compact&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheol-Cheol&layout=compact&bg_color=white)
 
 <!-- **🔘 Infra and Tools**
 
