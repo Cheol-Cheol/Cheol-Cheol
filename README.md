@@ -2,7 +2,7 @@
   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=3A7BF7&background=FFCABB00&center=true&vCenter=true&width=800&height=100&lines=Hello!+I'm+CheolCheol)](https://git.io/typing-svg)
-### 🙋🏻‍♂️ 안녕하세요, 항상 발전하는 개발자 황철원입니다.
+### 🙋🏻‍♂️ 안녕하세요, 항상 발전하는 개발자 황철원입니다!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCheol-Cheol%2Fhit-counter&count_bg=%23000000&title_bg=%236F6FF3&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
